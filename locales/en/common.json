@@ -1,4 +1,16 @@
 {
+  "smartling": {
+    "translate_paths":
+      [
+        {
+          "path": "/*/content",
+          "key": "/*/key",
+          "character_limit": "/*/character_limit"
+        }
+      ],
+    "string_format_paths": "html:/html/*,markdown:/markdown/*"
+
+  },
     "txt":
     {
         "character_limit": 255,
