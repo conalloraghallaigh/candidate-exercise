@@ -1,0 +1,26 @@
+{
+    "txt":
+    {
+        "character_limit": 255,
+        "key": "body.title",
+        "content": "Translate for every market, automatically"
+    },
+    "markdown":
+    {
+        "character_limit": 5000,
+        "key": "body.headline",
+        "content": "# MARKETING\n**Content that converts in every language**\nKeep every market on-brand and on-message, with quality checks built in so localized content converts as well as the original."
+    },
+    "html":
+    {
+        "character_limit": 5000,
+        "key": "body.main",
+        "content": "<h3>We offer {{count_integrations}}+ pre-built integrations with:</h3><ul><li><strong>CMSs</strong><span> </span>like WordPress, Adobe Experience Manager, Contentful, Drupal, and Sitecore</li><li><strong>CRMs and support platforms</strong><span> </span>like Salesforce and Zendesk</li><li><strong>Marketing tools</strong><span> </span>like Marketo and HubSpot</li><li><strong>Code repositories</strong><span> </span>like GitHub and Bitbucket</li><li><strong>Cloud storage</strong><span> </span>like Google Drive and Dropbox</li></ul>"
+    },
+    "footer":
+    {
+        "character_limit": 255,
+        "key": "footer.copyright",
+        "content": "© [year] Smartling, Inc."
+    }
+}
